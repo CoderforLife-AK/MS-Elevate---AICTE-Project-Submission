@@ -1,4 +1,4 @@
-Madhav Store Sales Analysis Dashboard
+Radium Store Sales Analysis Dashboard
 
 📌 Project Overview
 This project features an interactive Power BI Dashboard developed to analyze the sales performance of Radium Store, an e-commerce entity operating across India. The goal was to transform raw, fragmented transaction data into actionable insights, helping the business identify growth opportunities, regional trends, and customer preferences.
